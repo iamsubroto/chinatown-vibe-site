@@ -22,7 +22,7 @@ const CTA = () => {
         </p>
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
           <Link to="/memberships">
-            <Button variant="gold" size="xl">
+            <Button variant="green" size="xl">
               Get Started Now
               <ArrowRight className="w-5 h-5" />
             </Button>
