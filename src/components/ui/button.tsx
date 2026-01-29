@@ -17,6 +17,8 @@ const buttonVariants = cva(
         link: "text-primary underline-offset-4 hover:underline",
         gold: "bg-gradient-to-r from-amber-500 to-yellow-500 text-white shadow-[0_10px_40px_-10px_hsl(38_92%_50%_/_0.3)] hover:shadow-[0_20px_50px_-12px_hsl(0_0%_0%_/_0.15)] hover:-translate-y-0.5",
         "gold-outline": "border-2 border-amber-500 text-amber-500 hover:bg-amber-500 hover:text-white",
+        green: "bg-gradient-to-r from-emerald-500 to-green-500 text-white shadow-[0_10px_40px_-10px_hsl(142_76%_36%_/_0.3)] hover:shadow-[0_20px_50px_-12px_hsl(0_0%_0%_/_0.15)] hover:-translate-y-0.5",
+        "green-outline": "border-2 border-emerald-500 text-emerald-500 hover:bg-emerald-500 hover:text-white",
         dark: "bg-zinc-900 text-white hover:bg-zinc-800",
         "dark-outline": "border-2 border-zinc-900 text-zinc-900 hover:bg-zinc-900 hover:text-white",
       },
