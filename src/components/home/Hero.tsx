@@ -22,7 +22,7 @@ const Hero = () => {
 
           <h1 className="font-display text-5xl sm:text-6xl lg:text-7xl font-bold text-white mb-6 leading-tight animate-slide-up">
             Find Your{" "}
-            <span className="text-gradient-gold">Flow Anytime</span>
+            <span className="text-gradient-gold">Flow </span>
           </h1>
 
           <p className="text-lg sm:text-xl text-white/70 mb-8 leading-relaxed max-w-xl animate-slide-up" style={{
