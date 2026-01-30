@@ -21,7 +21,7 @@ const Hero = () => {
         <div className="max-w-3xl">
           <div className="animate-fade-in">
             <span className="inline-block px-4 py-2 rounded-full bg-gold/10 border border-gold/30 text-gold text-sm font-medium mb-6">
-              Premium Fitness in the Heart of Chinatown
+              Premium Fitness in the Heart of Chinatown.
             </span>
           </div>
 
